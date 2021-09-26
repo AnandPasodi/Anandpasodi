@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I am Anand Pasodi
 
-Budding Front End Developer
 
 ![](https://komarev.com/ghpvc/?username=AnandPasodi&color=green)
 
